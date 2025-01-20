@@ -8,22 +8,16 @@
 
 [Download](https://apps.apple.com/us/app/fuel-buddy-find-cheap-fuel/id6740751676)
 
-<!-- <p align="middle">
-  <img src="assets/overseer0.png?raw=true" width="32%"></img>
-  <img src="assets/overseer1.png?raw=true" width="32%"></img>
-  <img src="assets/overseer2.png?raw=true" width="32%"></img>
+<p align="middle">
+  <img src="assets/big/fuel-buddy-screens-0.png?raw=true" width="32%"></img>
+  <img src="assets/big/fuel-buddy-screens-1.png?raw=true" width="32%"></img>
+  <img src="assets/big/fuel-buddy-screens-2.png?raw=true" width="32%"></img>
 </p>
 
 <p align="middle">
-  <img src="assets/overseer3.png?raw=true" width="32%"></img>
-  <img src="assets/overseer4.png?raw=true" width="32%"></img>
-  <img src="assets/overseer5.png?raw=true" width="32%"></img>
+  <img src="assets/big/fuel-buddy-screens-3.png?raw=true" width="32%"></img>
+  <img src="assets/big/fuel-buddy-screens-4.png?raw=true" width="32%"></img>
 </p>
-
-<p align="middle">
-  <img src="assets/overseer6.png?raw=true" width="32%"></img>
-  <img src="assets/overseer7.png?raw=true" width="32%"></img>
-</p> -->
 
 ## Support
 
